@@ -1,0 +1,91 @@
+header {
+	background: url(../img/Scene.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 1005px;
+	width: 1734px;
+}
+.butt1 button {
+	width: 55px;
+	height: 30px;
+	background-color: transparent;
+	text-align: center;
+	border: none;
+	color: white;
+}
+.butt1 {
+	padding-left: 600px;
+	padding-top: 20px;
+}
+.butt2 button {
+	width: 70px;
+	background-color: transparent;
+	border: none;
+	color: white;
+}
+.butt2 {
+	padding-left: 100px;
+	padding-top: 20px;
+}
+.butt3 button {
+	width: 70px;
+	background-color: transparent;
+	border: none;
+	color: white;
+}
+.butt3 {
+	padding-left: 100px;
+	padding-top: 20px;
+}
+.butt4 button {
+	width: 100px;
+	height: 50px;
+	background: #EE4D47;
+	border: none;
+	color: white;
+	border-radius: 10px;
+}
+.butt4 {
+	padding-left: 100px;
+	padding-top: 10px;
+}
+.head-h1 {
+	color: white;
+	padding-top: 200px;
+	font-size: 60px;
+}
+.secondheadbutton button a {
+	text-decoration: none;
+	color: white;
+}
+.secondheadbutton button {
+	background: #EE4D47;
+	border: none;
+	border-radius: 10px;
+	width: 220px;
+	height: 60px;
+}
+.tracktor {
+	padding-top: 100px;
+}
+.text-menu h1 {
+	color: #EE4D47;
+	padding-top: 200px;
+}
+.text-menu p {
+	width:470px;
+}
+.slomannoe {
+	width: 570px;
+	height: 70px;
+	background: #FCDDD4;
+	border-left: 4px #ED4D47;
+	padding-top: 200px;
+}
+.slomannoe_govno {
+	position: absolute;
+	top: 1400px;
+	left: 400px;
+	width: 460px;
+	font-size: 20px;
+}
